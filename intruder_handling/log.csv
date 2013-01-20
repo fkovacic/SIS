@@ -1,0 +1,17 @@
+20.1.2013;17:57:12;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/login.php;Wrong username and/or password!;;;
+20.1.2013;17:57:25;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/check.php;username=bob' or ''=';password=;;
+20.1.2013;17:57:33;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/editdata.php;user=bob;source=dummy;username=bob ';ccinfo=351622624
+20.1.2013;17:57:33;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/edit.php;user=bob;An error has occured!;;
+20.1.2013;17:57:39;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/editdata.php;user=bob;source=dummy;username=bob;ccinfo=' OR \\
+20.1.2013;17:57:39;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/edit.php;user=bob;An error has occured!;;
+20.1.2013;17:57:47;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/get.php;user=bob;Forbidden access to admin page.;;
+20.1.2013;17:57:47;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/get.php;user=bob;source=dummy;;
+20.1.2013;17:57:54;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/login.php;user=bob;source=dummy;Online user tried to access.;
+20.1.2013;17:58:06;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/get.php?p=cc;user=admin;source=normal;;
+20.1.2013;17:58:07;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/get.php?p=pass;user=admin;source=normal;;
+20.1.2013;17:58:07;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/get.php?p=cc;user=admin;source=normal;;
+20.1.2013;17:58:15;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/check.php;user=admin;source=normal;Online user tried to access.;
+20.1.2013;17:58:20;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/login.php;user=admin;source=normal;Online user tried to access.;
+20.1.2013;17:58:30;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/check.php;username=admin' or ''=';password=;;
+20.1.2013;17:58:33;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/get.php?p=cc;user=admin;source=dummy;;
+20.1.2013;17:58:34;127.0.0.1;Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.12;/sis/get.php?p=pass;user=admin;source=dummy;;
